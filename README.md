@@ -1,4 +1,4 @@
-<h1 align="center">Alana</h1>
+<h1 align="center">🎀🌸Alana🌸🎀</h1>
 <h3 align="center">A passionate full stack developer and aspiring video game developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prettyalana" alt="prettyalana" /></a> </p>
