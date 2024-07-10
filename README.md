@@ -1,7 +1,7 @@
 <h1 align="center">🎀🌸Alana🌸🎀</h1>
 <h3 align="center">A passionate full stack developer and aspiring video game developer</h3>
 
-- 🔭 I’m currently working on **[Muse](https://github.com/prettyalana/Muse), Chattik Chat App, TutorMe App, AddEd+ App, iOS App Development using the Swift programming language and Xcode (IDE), and developing a video game.**
+- 🔭 I’m currently working on **[Muse](https://github.com/prettyalana/Muse), Chattik Chat App, TutorMe App, AddED+ App, iOS App Development using the Swift programming language and Xcode (IDE), and developing a video game.**
 
 - 🌱 I’m currently learning **Ruby, Ruby on Rails, Swift, JavaScript.**
 
