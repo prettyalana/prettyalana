@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[Muse](https://github.com/prettyalana/Muse) and developing a video game.**
 
-- 🌱 I’m currently learning **Ruby, Ruby on Rails, Swift, JavaScript, Blender, DragonRuby, Gosu, Godot.**
+- 🌱 I’m currently learning **Ruby, Ruby on Rails, Swift, C++, JavaScript, Blender, DragonRuby, Gosu, Godot.**
 
 - 💬 Ask me about **Ruby on Rails.**
 
