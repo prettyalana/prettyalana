@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ruby, Ruby on Rails, Swift, C++, Python, Rust, JavaScript, Blender, DragonRuby, Gosu, Godot.**
 
-- 💬 Ask me about **Ruby on Rails.**
+- 💬 Ask me about **Ruby, Ruby on Rails, and Git.**
 
 - ⚡ Fun fact **My favorite color is pink.**
 
