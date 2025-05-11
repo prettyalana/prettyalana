@@ -1,13 +1,13 @@
 <h1 align="center">🎀🌸Alana🌸🎀</h1>
 <h3 align="center">A passionate full stack developer and aspiring video game developer</h3>
 
-- 🔭 I’m currently working on **[Muse](https://github.com/prettyalana/Muse) and developing a video game.**
+- 🔭 I’m currently working on **[Muse](https://github.com/prettyalana/Muse) and learning different technologies.**
 
-- 🌱 I’m currently learning **Ruby, Ruby on Rails, Swift, C++, Python, Rust, JavaScript, Blender, DragonRuby, Gosu, Godot.**
+- 🌱 I'm currently learning **Python**, **TypeScript**, and **JavaScript** for full-stack development.
 
-- 💬 Ask me about **Ruby, Ruby on Rails, and Git.**
+- 💬 Ask me about **software development, programming languages, Git, GitHub, games, game development, and all things tech.**
 
-- ⚡ Fun fact **My favorite color is pink.**
+- ⚡ Fun fact: **My favorite color is pink.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
