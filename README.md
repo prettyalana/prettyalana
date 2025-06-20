@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **[Muse](https://github.com/prettyalana/Muse) and learning different technologies.**
 
-- 🌱 I'm currently learning **Python**, **TypeScript**, and **JavaScript** for full-stack development.
+- 🌱 I'm currently learning **Python**, **TypeScript**, and **JavaScript** for full-stack development and I'm currently a **Site Reliability Fellow** in the **Meta x MLH Fellowship**.
 
-- 💬 Ask me about **software development, programming languages, Git, GitHub, games, game development, and all things tech.**
+- 💬 Ask me about **software development, programming languages, Git, GitHub, DevOps, Linux, site reliability engineering, games, game development, and all things tech.**
 
 - ⚡ Fun fact: **My favorite color is pink.**
 
