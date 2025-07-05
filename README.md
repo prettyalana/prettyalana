@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **Python**, **TypeScript**, and **JavaScript** for full-stack development and I'm currently a **Production Engineering Fellow** in the **Meta x MLH Fellowship**.
 
-- 💬 Ask me about **software development, programming languages, Git, GitHub, DevOps, Linux, production engineering (site reliability engineering), games, game development, and all things tech.**
+- 💬 Ask me about **software development, programming languages, Git, GitHub, DevOps, Linux, production engineering (site reliability engineering), bash scripting, games, game development, and all things tech.**
 
 - ⚡ Fun fact: **My favorite color is pink.**
 
