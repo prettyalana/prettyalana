@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[Muse](https://github.com/prettyalana/Muse) and learning different technologies.**
 
-- 🌱 I'm currently a Software Engineer MES at Allegion.
+- 🌱 I'm currently a **Software Engineer MES** at [Allegion](https://github.com/Allegion).
 
 - 💬 Ask me about **software development, programming languages, Git, GitHub, DevOps, Linux, production engineering (site reliability engineering), bash scripting, games, game development, and all things tech.**
 
