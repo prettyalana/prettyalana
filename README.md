@@ -1,9 +1,9 @@
 <h1 align="center">🎀🌸Alana🌸🎀</h1>
-<h3 align="center">A passionate full stack developer and aspiring video game developer</h3>
+<h3 align="center">A passionate Full Stack Software Engineer</h3>
 
 - 🔭 I’m currently working on **[Muse](https://github.com/prettyalana/Muse) and learning different technologies.**
 
-- 🌱 I'm currently learning **Python**, **TypeScript**, and **JavaScript** for full-stack development and I was previously a **Production Engineering Fellow** in the **Meta x MLH Fellowship**.
+🌱 I'm currently a **Software Engineer** at [Allegion](https://github.com/Allegion).
 
 - 💬 Ask me about **software development, programming languages, Git, GitHub, DevOps, Linux, production engineering (site reliability engineering), bash scripting, games, game development, and all things tech.**
 
@@ -24,6 +24,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://shields.io/badge/-Rust-3776AB.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
