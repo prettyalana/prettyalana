@@ -1,7 +1,7 @@
 <h1 align="center">🎀🌸Alana🌸🎀</h1>
 <h3 align="center">A Passionate Full Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on various projects and learning different technologies.**
+- 🔭 I’m currently working on various projects and learning different technologies.
 
 - 🌱 I'm currently a **Software Engineer** at [Allegion](https://github.com/Allegion).
 
