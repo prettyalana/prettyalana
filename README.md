@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on various projects and learning different technologies.
 
-- 🌱 I'm currently a **Software Engineer** at [Allegion](https://github.com/Allegion).
+- 🌱 I'm currently a **Software Engineer**.
 
 - 💬 Ask me about **software development, programming languages, Git, GitHub, DevOps, Linux, production engineering (site reliability engineering), bash scripting, games, game development, and all things tech.**
 
